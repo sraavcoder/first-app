@@ -1,0 +1,10 @@
+html, body {
+  margin: 100;
+  padding: 100;
+}
+canvas {
+
+	margin-left: 370px; /* This is half the width */
+	margin-top: 25px; /* This is half the height */
+  display: block;
+}
